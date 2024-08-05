@@ -1,6 +1,6 @@
 # Data Structures: LinkedList, Stack, and Queue
 
-This repository contains implementations of basic data structures including LinkedList, Stack, and Queue in C,C++,And Java.
+This repository contains implementations of basic data structures including LinkedList, Stack, and Queue in C,C++,And Java Language.
 
 ## LinkedList
 
